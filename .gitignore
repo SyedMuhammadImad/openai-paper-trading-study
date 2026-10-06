@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+*.png
+*.jpg
+*.mp4
+*.wav
+paper_results*.json

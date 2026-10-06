@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-07",
+  "title": "Openai standalone paper trading study",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".env.example",
+      "sha256": "3a8820a6f0ea6accf73282ccc8892b42e880c2030f8c2a509619a600e0ae773a",
+      "bytes": 32
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "2dc54d323b473504b3a35f0289816db9d23aae3e7ecfbccb2845e3fc09f9b358",
+      "bytes": 108
+    },
+    {
+      "path": "cli.py",
+      "sha256": "1a8e75b4529f47f07bf78f89a2904f9b280f832aff6f4192270350d6f693717d",
+      "bytes": 1895
+    },
+    {
+      "path": "demo_summary.json",
+      "sha256": "85aabb36ad22eda9147a986532ca11bf4da2c0b43bf6d096e88317836decadd1",
+      "bytes": 456
+    },
+    {
+      "path": "openai_api.py",
+      "sha256": "e1392a253da91eb763651e792357380ad8a2c87c2b5f0a9ae721850ed74e7983",
+      "bytes": 66
+    },
+    {
+      "path": "paper.py",
+      "sha256": "02802ad98c445f5198ffdae33a802813ecd17ebaf442c1dde3b89d9ac380d0f9",
+      "bytes": 10162
+    },
+    {
+      "path": "providers.py",
+      "sha256": "1c61582cac9d2a09e02557bb782cf82859d33e506484f4111e56426867ac4c27",
+      "bytes": 4168
+    },
+    {
+      "path": "README.md",
+      "sha256": "1bd4e7b08661ae50120aef96af51ae099d140847c7be98f04ce97b600b4db579",
+      "bytes": 2870
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "40634886b612901c2612fac8918d023146e2a193eadfe156e8a6c31d2147cabf",
+      "bytes": 77
+    },
+    {
+      "path": "test_paper.py",
+      "sha256": "bf64d88bdeb51f4107d3e9e6210c34b016a787c4dcd06b1ac4193279d89fbd1e",
+      "bytes": 8081
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "3d7389eb02ee396e840cb4584ff2c6bcc0b05e77eb46aad3b974be563042ba9c",
+      "bytes": 723
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "mode": "paper",
+  "execution_enabled": false,
+  "balance": 10613.62,
+  "equity": 10645.459000000003,
+  "limits": {
+    "risk_fraction": 0.01,
+    "max_open": 3,
+    "min_rr": 1.5,
+    "point_value": 1.0,
+    "unit_step": 0.01,
+    "margin_per_unit": 1.0,
+    "fee_per_unit": 0.0
+  },
+  "limitation": "Synthetic/paper research only. Gap losses can exceed intended stop risk. No spreads, market liquidity or live execution are modeled."
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-07",
+  "project": "openai-paper-trading-study",
+  "completion_scope": "academic project or finished document; not a production certification",
+  "checks": [
+    {
+      "name": "13 paper/account/provider tests including 200 randomized sizing cases and malformed/incomplete/refused responses",
+      "passed": true
+    },
+    {
+      "name": "Offline demonstration completes with paper ledger and execution_enabled=false",
+      "passed": true
+    },
+    {
+      "name": "CLI rejects invalid capital",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Paper research only; provider transports mocked. No live broker orders, provider access or profitable-strategy claim."
+  ]
+}
